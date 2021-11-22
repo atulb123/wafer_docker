@@ -1,0 +1,3 @@
+heroku_docker/
+.idea/*
+*__pycache__*
